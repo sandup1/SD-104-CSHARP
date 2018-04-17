@@ -1,0 +1,11 @@
+C:\Users\EdgeTech1\source\repos\SD-104-CSHARP\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSHARP\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSHARP\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSHARP\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\EdgeTech1\source\repos\SD-104-CSHARP\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSHARP\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSHARP\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSHARP\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\EdgeTech1\source\repos\SD-104-CSHARP\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\EdgeTech1\source\repos\SD-104-CSHARP\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\EdgeTech1\source\repos\SD-104-CSHARP\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
